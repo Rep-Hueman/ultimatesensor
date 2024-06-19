@@ -35,7 +35,7 @@ api:
 ota:
 
 dashboard_import:
-  package_import_url: github://smarthomeshop/ultimatesensor/ultimatesensor-v1/ultimatesensor-ethernet-complete.yaml@main
+  package_import_url: github://Rep-Hueman/ultimatesensor/ultimatesensor-ethernet-complete.yaml@main
     
 #Enable web server so you can view data in browser if you go to ip of the device
 web_server:

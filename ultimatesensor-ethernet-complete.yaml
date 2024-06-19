@@ -877,6 +877,11 @@ button:
     name: "Restart UltimateSensor"
 
 text_sensor:
+  # Ethernet info
+  - platform: ethernet_info
+    ip_address:
+      name: IP Address
+      icon: "mdi:ip-network"
   # ESPHome information
   - platform: version
     id: text_sensor_version
